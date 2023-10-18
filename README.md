@@ -24,3 +24,12 @@ making folder and it's file for its own intention :
 <img width="175" alt="image" src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/15fab9a1-a138-406f-a629-d17246c738ed">
 
 
+
+
+
+
+
+project on making process :
+![WhatsApp Image 2023-10-18 at 20 12 11_ed408413](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/9d3b5024-4983-4355-b8aa-3164ace7a62b)
+
+
