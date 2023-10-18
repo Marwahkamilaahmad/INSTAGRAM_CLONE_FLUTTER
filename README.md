@@ -67,6 +67,10 @@ making folder and it's file for its own intention :
 <img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/deca1d2b-53e1-4366-862b-123f7fe35637" width="300" height="400" alt="Image 3">
 
 
+
+
+
+
 ### Instagram Home View :
 <img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f" width="600" height="800" alt="Image 1">
 <img width="600" height="800" alt="image" src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/acf58578-3109-4070-b6aa-96e751f28447">
@@ -76,9 +80,21 @@ making folder and it's file for its own intention :
 
 
 
+
+
+
+
+
+
 ### Instagram Profile View :
 <img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="600" height="800" alt="Image 2">
 <img width="600" height="800" alt="image" src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/3080ae81-e94d-40d3-bed4-38ae0cc66c6b">
+
+
+
+
+
+
 
 
 
