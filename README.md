@@ -62,9 +62,9 @@ making folder and it's file for its own intention :
 
 
 ### Overview Project
-<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f" width="200" height="200" alt="Image 1">
-<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="200" height="200" alt="Image 2">
-<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="200" height="200" alt="Image 3">
+<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f" width="400" height="700" alt="Image 1">
+<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="400" height="700" alt="Image 2">
+<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="400" height="700" alt="Image 3">
 
 
 ### Instagram Home View :
