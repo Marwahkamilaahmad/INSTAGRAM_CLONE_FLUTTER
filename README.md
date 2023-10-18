@@ -36,7 +36,17 @@ on project :
 import 'dart:html';
 import 'package:flutter/material.dart';
 ```
+using stateless widget for making UI :
+```
+class MyWidget extends StatelessWidget {
+  const MyWidget({super.key});
 
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
+```
 
 
 
