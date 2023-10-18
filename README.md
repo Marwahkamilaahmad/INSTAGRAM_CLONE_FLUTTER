@@ -52,7 +52,7 @@ making folder and it's file for its own intention :
 
 
 
-### project on making process :
+### project on process making :
 
 ![WhatsApp Image 2023-10-18 at 20 12 11_ed408413](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/9d3b5024-4983-4355-b8aa-3164ace7a62b)
 
