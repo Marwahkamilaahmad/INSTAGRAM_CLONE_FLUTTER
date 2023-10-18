@@ -47,7 +47,14 @@ class MyWidget extends StatelessWidget {
   }
 }
 ```
-
+on pubspec.yaml dont forget to add dependencies/library for addition on project :
+```
+dependencies:
+  get:
+  font_awesome_flutter: ^9.2.0
+  flutter:
+    sdk: flutter
+```
 
 
 
