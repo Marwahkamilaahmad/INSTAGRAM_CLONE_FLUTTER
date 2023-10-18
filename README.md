@@ -15,6 +15,26 @@ to run project code :
 ```
 $ flutter run
 ```
+choose emulator :
+```
+Multiple devices found:
+Windows (desktop) • windows • windows-x64    • Microsoft Windows [Version 10.0.22621.2134]
+Chrome (web)      • chrome  • web-javascript • Google Chrome 117.0.5938.149
+Edge (web)        • edge    • web-javascript • Microsoft Edge 117.0.2045.60
+[1]: Windows (windows)
+[2]: Chrome (chrome)
+[3]: Edge (edge)
+Please choose one (To quit, press "q/Q"): 2
+```
+to hot restart / restart :
+```
+ To hot restart changes while running, press "r" or "R".
+```
+
+
+
+
+
 making folder and it's file for its own intention :
 
 
