@@ -9,7 +9,7 @@ An Instagram clone flutter hybrid application project
 
 flutter create project command :
 ```
-$ flutter create my_app
+$ flutter create insta_clone
 ```
 to run project code :
 ```
