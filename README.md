@@ -75,7 +75,7 @@ making folder and it's file for its own intention :
 
 
 ### Instagram Profile View :
-![WhatsApp Image 2023-10-18 at 20 14 18_ecc8104c](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e)
+<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="600" height="800" alt="Image 2">
 
 
 
@@ -83,6 +83,6 @@ making folder and it's file for its own intention :
 
 
 ### Instagram Search View :
-![WhatsApp Image 2023-10-18 at 20 25 12_3227b0bb](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/deca1d2b-53e1-4366-862b-123f7fe35637)
+<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/deca1d2b-53e1-4366-862b-123f7fe35637" width="600" height="800" alt="Image 3">
 
 
