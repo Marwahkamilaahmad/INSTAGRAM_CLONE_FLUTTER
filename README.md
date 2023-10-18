@@ -16,7 +16,10 @@ to run project code :
 $ flutter run
 ```
 making folder and it's file for its own intention :
-```
+
+
+
+
 <img width="172" alt="image" src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/6c810387-0ebe-4aa1-822b-0321022472e9">
-```
+
 
