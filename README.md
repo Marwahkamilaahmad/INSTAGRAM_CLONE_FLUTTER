@@ -57,7 +57,7 @@ making folder and it's file for its own intention :
 ![WhatsApp Image 2023-10-18 at 20 12 11_ed408413](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/9d3b5024-4983-4355-b8aa-3164ace7a62b)
 
 
-
+<br><br><br>
 
 
 
@@ -70,6 +70,7 @@ making folder and it's file for its own intention :
 
 
 
+<br><br><br>
 
 ### Instagram Home View :
 <img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f" width="600" height="800" alt="Image 1">
@@ -79,6 +80,7 @@ making folder and it's file for its own intention :
 
 
 
+<br><br><br>
 
 
 
@@ -93,6 +95,7 @@ making folder and it's file for its own intention :
 
 
 
+<br><br><br>
 
 
 
