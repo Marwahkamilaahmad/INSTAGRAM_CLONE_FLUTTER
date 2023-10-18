@@ -62,7 +62,7 @@ making folder and it's file for its own intention :
 
 
 ### overview project :
-![WhatsApp Image 2023-10-18 at 20 12 34_57b90c0a](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f){width=100px height=200px}
+![WhatsApp Image 2023-10-18 at 20 12 34_57b90c0a(https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f){width=100px height=200px}]
 ![WhatsApp Image 2023-10-18 at 20 14 18_ecc8104c](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e)
 ![WhatsApp Image 2023-10-18 at 20 14 18_ecc8104c](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e)
 
