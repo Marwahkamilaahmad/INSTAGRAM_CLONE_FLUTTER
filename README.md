@@ -68,8 +68,7 @@ making folder and it's file for its own intention :
 
 
 ### Instagram Home View :
-
-![WhatsApp Image 2023-10-18 at 20 12 34_57b90c0a](https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f)
+<img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/883c044d-85ce-4b09-b4ab-52d3328d609f" width="600" height="800" alt="Image 1">
 
 
 
