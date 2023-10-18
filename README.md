@@ -76,6 +76,8 @@ making folder and it's file for its own intention :
 
 ### Instagram Profile View :
 <img src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/f97d27fb-c8e1-445e-a74e-f7ed52e68c2e" width="600" height="800" alt="Image 2">
+<img width="600" height="800" alt="image" src="https://github.com/Marwahkamilaahmad/INSTAGRAM_CLONE_FLUTTER/assets/114375719/3080ae81-e94d-40d3-bed4-38ae0cc66c6b">
+
 
 
 
